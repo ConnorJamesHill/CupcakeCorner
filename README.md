@@ -38,7 +38,7 @@ To install and run CupcakeCorner on your iOS device:
 6. Experience delightful haptic effects throughout the ordering process.
 
 ## Contact
-For questions or feedback regarding CupcakeCorner, please contact [your-email] or [your-website].
+For questions or feedback regarding CupcakeCorner, please contact JamesConnorHill@gmail.com or message me on LinkedIn: https://www.linkedin.com/in/connor-j-hill/.
 
 ## Technologies Used
 - SwiftUI
